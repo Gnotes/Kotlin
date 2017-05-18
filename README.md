@@ -12,6 +12,15 @@ Kotlin 可以编译成`Java字节码`，也可以编译成`JavaScript`，方便�
 
 - [环境搭建](环境搭建.md)
 
+## Mac 图标
+
+- `⌘` Command ()
+- `⌃` Control
+- `⌥` Option (alt)
+- `⇧` Shift
+- `⇪` Caps Lock
+- `fn` fn
+
 ## 参考文献
 
 - [Kotlin github](https://github.com/JetBrains/kotlin)  
