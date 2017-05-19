@@ -6,7 +6,7 @@ Kotlin 可以编译成`Java字节码`，也可以编译成`JavaScript`，方便�
 - 比Java更安全
 - 比Java更简洁
 
-- 增强版（简洁版）的`Java`，Android版的Swift😅  
+- 增强版（简洁版）的`Java`，Java版的Swift😅  
 
 ## 目录
 
