@@ -37,3 +37,4 @@ Kotlin 可以编译成`Java字节码`，也可以编译成`JavaScript`，方便�
 
 - [Kotlin 从入门到放弃](https://zhuanlan.zhihu.com/p/23101437)
   - [github](https://github.com/enbandari/Kotlin-Tutorials)
+    - `articles` ：这个目录有大神很多文章，请仔细阅读  
