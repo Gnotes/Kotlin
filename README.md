@@ -31,7 +31,7 @@ Kotlin 可以编译成`Java字节码`，也可以编译成`JavaScript`，方便�
 - [Kotlin](http://www.liying-cn.net/kotlin/docs/reference/)  
 - [Kotlin Primer](https://kymjs.com/code/2017/02/03/01/)  
 - [Kotlin 资源大全](https://juejin.im/post/591dd9f544d904006c9fbb96)  
-- [我们通过Kotlin得到什么](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/wo_men_tong_guo_kotlin_de_dao_shi_yao.html)    
+- [Kotlin for android developers》中文版翻译](https://wangjiegulu.gitbooks.io/kotlin-for-android-developers-zh/content/)    
 
 
 ## 参考视频
